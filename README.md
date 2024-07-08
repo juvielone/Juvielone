@@ -1,4 +1,4 @@
-# Juvielone Joshua Lagos' Next.js Projects
+# Juvielone Joshua Lagos' 
 
 Welcome to my GitHub repository! Here you'll find a collection of my projects built, demonstrating my skills and experience as a Full Stack Developer.
 
