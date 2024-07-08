@@ -1,8 +1,8 @@
-# Juvielone Joshua Lagos' 
+# Juvielone Joshua Lagos 👋
 
 Welcome to my GitHub repository! Here you'll find a collection of my projects built, demonstrating my skills and experience as a Full Stack Developer.
 
-## Featured Projects
+## Featured Projects 🚀
 
 ### Personal Portfolio
 - **Description:** My personal portfolio is designed using Next.js and showcases modern UI and UX implementations. It highlights my skills, experiences, and other projects.
@@ -17,11 +17,11 @@ Welcome to my GitHub repository! Here you'll find a collection of my projects bu
 
 
 
-## About Me
+## About Me 🤖
 
-I am Juvielone Joshua Lagos, I have experience working as Full Stack Developer. My expertise includes developing full-stack applications, optimizing user experiences, and implementing modern web technologies.
+I am Juvielone Joshua Lagos. My expertise includes developing full-stack applications, optimizing user experiences, and implementing modern web technologies.
 
-## Contact
+## Contact 📞
 
 Feel free to reach out to me for any inquiries or opportunities:
 
