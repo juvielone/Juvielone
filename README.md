@@ -25,9 +25,9 @@ I am Juvielone Joshua Lagos. My expertise includes developing full-stack applica
 
 Feel free to reach out to me for any inquiries or opportunities:
 
-- **Email:** [your-email@example.com](mailto:juvielonejoshua27@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/joshualagos/)
-- **Portfolio:** [Your Portfolio Website](https://juvielone.vercel.app/)
+- **Email:** [juvielonejoshua27@gmail.com](mailto:juvielonejoshua27@gmail.com)
+- **LinkedIn:** [linkedin/joshualagos](https://www.linkedin.com/in/joshualagos/)
+- **Portfolio:** [juvielone.vercel](https://juvielone.vercel.app/)
 
 ## Contributing
 
